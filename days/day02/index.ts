@@ -12,5 +12,5 @@ interface Return {
   hitZero: number;
 }
 
-partOne(fileContent.split("\n"));
-partTwo(fileContent.split("\n"));
+partOne(fileContent.split(","));
+partTwo(fileContent.split(","));
