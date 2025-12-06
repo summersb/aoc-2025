@@ -1,0 +1,16 @@
+{
+  "name": "aoc-2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/summersb/aoc-2025.git",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "day": "tsx scripts/run-day.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
